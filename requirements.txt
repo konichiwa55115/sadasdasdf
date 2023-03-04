@@ -2,7 +2,7 @@ python-telegram-bot==12.3.0
 coloredlogs
 pillow
 watchdog
-tesserocr
+https://github.com/sirfz/tesserocr/archive/refs/heads/master.zip
 pydub
-zbarlight
+https://github.com/Polyconseil/zbarlight/archive/refs/heads/master.zip
 requests
